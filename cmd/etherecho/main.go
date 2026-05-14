@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/mdlayher/ethernet"
-	"github.com/mdlayher/packet"
+	"antrea.io/ethernet"
+	"antrea.io/packet"
 )
 
 // Make use of an unassigned EtherType for etherecho.
