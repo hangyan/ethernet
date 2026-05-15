@@ -1,6 +1,6 @@
 module antrea.io/ethernet
 
-go 1.26
+go 1.26.0
 
 require antrea.io/packet v0.0.0-20260515035949-da07d208f65c
 
